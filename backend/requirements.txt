@@ -1,0 +1,4 @@
+fastapi==0.95.1
+uvicorn[standard]==0.21.1
+ecs_logging==2.0.0
+elastic-apm==6.15.1
